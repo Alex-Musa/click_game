@@ -22,5 +22,5 @@ A memory game created with React featuring the Iraqi international team. The cha
 <h2>How does it work?</h2>
 The object of the game is to click every player once without clicking any twice. The game begins when you click on your first palyer. After each click, the player will be shuffled, challenging you to remember which ones you havent clicked yet. You'll receive one point for every unique player that you click. Your score and your high score are displayed in the nav bar. It's game over when you click the same player twice.
 
-<h2>Check it out on Github Pages!</h2>
-https://alex-musa.github.io/click_game/
+<h2>Check it out on heroku!</h2>
+https://react-click-games.herokuapp.com/
